@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tsukuyomi Watch — The Samurai’s Celestial Guide",
+  "description": "An interactive stargazing observatory and celestial guide with real-time stargazing conditions, meteor shower scroll, Spirit Lens AI photo analyzer, and Dojo Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
